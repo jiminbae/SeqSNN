@@ -67,7 +67,7 @@ def setup():
         python_requires=">=3.8",
         install_requires=[
             "torch",
-            "protobuf==4.23",
+            "protobuf==4.25.8",
             "utilsd",
             "click",
             "sktime",
